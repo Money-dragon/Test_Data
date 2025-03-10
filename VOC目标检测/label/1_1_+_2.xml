@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>漏贴</folder>
+	<filename>1_1_+_2.JPG</filename>
+	<path>C:\Code\Data\20240828_new\process_stage_2\ALL\VOC\val</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>658</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>virtual_welding</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>111</ymin>
+			<xmax>577</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>
